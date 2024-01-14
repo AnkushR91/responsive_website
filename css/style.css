@@ -39,7 +39,8 @@
 .testimonial_bac{
 	background-color:#fff;
 	background-image:url("../images/testimonials-background.jpg");
-	
+	background-repeat:no repeat;
+	background-size:cover;
 }
 
 .testimonial-img{
