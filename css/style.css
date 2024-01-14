@@ -1,0 +1,80 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+.hero{
+	background-color:#fff;
+	background-image:url("../images/hero-section-background.jpg");
+	height:700px;
+	background-repeat:no repeat;
+	background-size:cover;
+	
+}
+
+.pleft{
+	padding-left:50%;
+}
+
+.txtshadow{
+	text-shadow:3px 3px 5px black;
+}
+.margin{
+	margin-top:200px;
+}
+
+.signup_section{
+	background-color:#40b5f5;
+}
+
+.featured_img{
+	width:110%;
+	height:110%;
+}
+
+.padding{
+	padding:30px 170px 30px 140px;
+}
+
+.testimonial_bac{
+	background-color:#2b2321;
+	background-image:url("../images/testimonials-background.jpg");
+	background-repeat:no repeat;
+	background-size:cover;
+}
+
+.testimonial-img{
+	width:10%;
+	
+}
+hr{
+	width:50px;
+	margin:8px auto;
+	border:1px #fffefa solid;
+	background-color:#fffefa;
+}
+.psize{
+	font-size:70px;
+}
+
+.rate-background1{
+	background-color:#ff2626;
+}
+
+.rate-background2{
+	background-color:#ff26ff;
+}
+
+.btn-padding{
+	padding-left:55px;
+	padding-right:55px;
+}
+.contact-section{
+	background-color:#fff;
+	background-image:url("../images/world_map.jpg");
+}
+.icon_width{
+	width:20px;
+}
+
+
